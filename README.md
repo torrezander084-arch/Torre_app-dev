@@ -64,8 +64,6 @@ This scene reminds me that **friendship and teamwork can help us overcome diffic
  
 I rate **Stranger Things 10/10** because of its amazing storyline, unforgettable characters, and thrilling adventures.
  
-~just an ordinary mystery series~
- 
 **An unforgettable adventure into the Upside Down!**
  
 ## Learn More
