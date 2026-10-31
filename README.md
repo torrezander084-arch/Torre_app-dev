@@ -2,7 +2,7 @@
 My first repository
 
  
-# My Favorite Series: Stranger Things 👾
+# My Favorite Series: Stranger Things
  
 ## About the Series
  
@@ -10,7 +10,7 @@ My first repository
  
 The story begins when a young boy named Will Byers mysteriously disappears. His friends discover a girl named Eleven who has supernatural powers. Together, they uncover strange secrets about another dimension called the Upside Down.
  
-## Why I Love Stranger Things ❤️
+## Why I Love Stranger Things
  
 - The storyline is exciting and mysterious.
 - The characters have strong friendships.
@@ -38,7 +38,7 @@ The story begins when a young boy named Will Byers mysteriously disappears. His 
 | Streaming Platform | Netflix |
 | My Rating | 10/10 |
  
-## My Favorite Part 🎬
+## My Favorite Part
  
 > My favorite part is when the characters work together to fight the dangers of the Upside Down.
  
@@ -60,11 +60,11 @@ This scene reminds me that **friendship and teamwork can help us overcome diffic
 - [x] Learned important lessons
 - [ ] Rewatch my favorite episodes
  
-## My Overall Rating ⭐
+## My Overall Rating
  
 I rate **Stranger Things 10/10** because of its amazing storyline, unforgettable characters, and thrilling adventures.
  
-~~Just an ordinary mystery series~~
+~just an ordinary mystery series~
  
 **An unforgettable adventure into the Upside Down!**
  
@@ -74,7 +74,7 @@ I rate **Stranger Things 10/10** because of its amazing storyline, unforgettable
  
 ---
  
-### Thank You for Reading! ❤️
+### Thank You for Reading!
  
 *Friends don't lie.*
  
